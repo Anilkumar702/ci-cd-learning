@@ -8,7 +8,7 @@ describe("App", () => {
     render(<App />);
 
     expect(
-      screen.getByRole("heading", { name: /hi anilkumar/i }),
+      screen.getByRole("heading", { name: /Test deployment/i }),
     ).toBeInTheDocument();
     expect(
       screen.getByRole("button", { name: /count is 0/i }),
