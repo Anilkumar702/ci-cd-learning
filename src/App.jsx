@@ -18,6 +18,7 @@ function App() {
         <div>
           <h1>Test deployment</h1>
           <h2>Vite + React</h2>
+          <h1>Test deployment</h1>
           <p>
             Click on the Vite logo to learn more
             Edit <code>src/App.jsx</code> and save to test <code>HMR</code>
