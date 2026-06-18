@@ -18,6 +18,7 @@ function App() {
         <div>
           <h1>Test deployment</h1>
           <h2>Vite + React</h2>
+          <h1>Vite + React</h1>
           <p>
             Edit <code>src/App.jsx</code> and save to test <code>HMR</code>
           </p>
